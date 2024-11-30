@@ -46,9 +46,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/pn2475/pn2475/output/snake.svg" alt="Snake animation" />
 
 ###
 
